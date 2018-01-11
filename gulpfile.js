@@ -17,7 +17,7 @@ gulp.task('dist', function() {
 		.pipe(browserify())
 		// .pipe(uglify())
 		.pipe(rename({
-			basename: 'jexl',
+			basename: 'jexl-sync',
 			extname: '.min.js'
 		}))
 		.pipe(gulp.dest('./dist/'));

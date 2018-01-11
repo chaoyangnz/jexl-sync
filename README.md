@@ -1,6 +1,8 @@
 # Jexl [![Build Status](https://travis-ci.org/TomFrost/Jexl.svg?branch=master)](https://travis-ci.org/TomFrost/Jexl)
 Javascript Expression Language: Powerful context-based expression parser and evaluator
 
+If you need promised-based API, please go to [Jexl](https://github.com/TomFrost/Jexl)
+
 ## Quick start
 Use it with promises or callbacks:
 
