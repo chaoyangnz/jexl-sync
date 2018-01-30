@@ -1,6 +1,6 @@
 {
   "name": "jexl-sync",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "(Synchronous API) Javascript Expression Language: Powerful context-based expression parser and evaluator",
   "main": "lib/Jexl.js",
   "directories": {
